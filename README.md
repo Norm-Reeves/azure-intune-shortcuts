@@ -52,6 +52,7 @@ Usage:
 
 Download .exe:
 ============
+https://github.com/Norm-Reeves/azure-intune-shortcuts/blob/83a13ec6975893f75c328686013053b2e2d7e057/azure-intune-shortcuts.exe
 
 Change Log:
 ============
